@@ -40,9 +40,9 @@ class Mokepon {
     }
 }
 
-let hipodoge = new Mokepon("Hipodoge", "./assets/Hipodoge.jpeg.png", 3)
-let capipepo = new Mokepon("Capipepo", "./assets/Capipepo.jpeg.png", 3)
-let ratigueya = new Mokepon("Ratigueya", "./assets/Ratigueya.jpeg.png", 3)
+let hipodoge = new Mokepon("Hipodoge", "./assets/Hipodoge.png", 3)
+let capipepo = new Mokepon("Capipepo", "./assets/Capipepo.png", 3)
+let ratigueya = new Mokepon("Ratigueya", "./assets/Ratigueya.png", 3)
 
 hipodoge.ataques.push(
     {nombre: "Agua 💧", id: "boton-agua"}, 
